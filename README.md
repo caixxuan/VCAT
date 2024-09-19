@@ -54,7 +54,7 @@ Note: The defend training is not included in this repo. now! We will release it 
 ```
 python PPO.py
 ```
-Note: env = gym.make("inverse6-env-cx-v0", render_mode='rgb_array') in which "inverse6-env-cx-v0" can change to "inverse6-env-cx-v1" or "inverse6-env-cx-v2" to change the difficulty of the environment.
+Note: env = gym.make("inverse6-env-cx-v0", render_mode='rgb_array') in which "inverse6-env-cx-v0" can change to "intersection2-env-cx-v0" etc. to change the difficulty of the environment.
 
 | Method | Description 
 | :----: | :----:
